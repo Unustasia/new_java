@@ -23,9 +23,9 @@ public class Employee{
     }
     /* Вывод подробной информации. */
     public void printEmployee(){
-        System.out.println("Имя:"+ name );
-        System.out.println("Возраст:" + age );
-        System.out.println("Наименование:" + designation );
-        System.out.println("Заработная плата:" + salary);
+        System.out.println(" Имя:"+ name );
+        System.out.println(" Возраст:" + age );
+        System.out.println(" Наименование:" + designation );
+        System.out.println(" Заработная плата:" + salary);
     }
 }
