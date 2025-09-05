@@ -19,7 +19,7 @@ public class Main{
     }
     public static void main(String []args){
         /* Создание объекта. */
-        Main myPuppy = new Main( "no name" );
+        Main myPuppy = new Main( "Рыжик" );
 
         /* Вызов метод класса, чтобы установить возраст щенка. */
         myPuppy.setAge( 2 );
